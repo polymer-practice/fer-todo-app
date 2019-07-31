@@ -1,0 +1,16 @@
+{
+  "name": "fer-todo-app",
+  "main": "index.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0",
+    "fer-task-repository": "git@github.com:polymer-practice/fer-task-repository.git",
+    "fer-task-list": "git@github.com:polymer-practice/fer-task-list.git",
+    "fer-task-element": "git@github.com:polymer-practice/fer-tastk-element.git",
+    "fer-form-task": "git@github.com:polymer-practice/fer-form-task.git",
+    "adrian2-console-messages": "git@github.com:polymer-practice/adrian2-console-messages.git"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  }
+}

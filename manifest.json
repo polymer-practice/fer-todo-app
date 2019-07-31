@@ -1,0 +1,6 @@
+{
+  "name": "fer-todo-app",
+  "short_name": "fer-todo-app",
+  "start_url": "/",
+  "display": "standalone"
+}
